@@ -98,8 +98,8 @@ importers:
         specifier: ^0.383.0
         version: 0.383.0(react@18.3.1)
       next:
-        specifier: 15.5.16
-        version: 15.5.16(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        specifier: 16.2.6
+        version: 16.2.6(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       next-themes:
         specifier: ^0.3.0
         version: 0.3.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -228,8 +228,8 @@ importers:
         specifier: ^0.383.0
         version: 0.383.0(react@18.3.1)
       next:
-        specifier: 15.5.16
-        version: 15.5.16(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        specifier: 16.2.6
+        version: 16.2.6(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       next-themes:
         specifier: ^0.3.0
         version: 0.3.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -351,13 +351,13 @@ importers:
         version: 20.17.27
       tsup:
         specifier: ^8.4.0
-        version: 8.4.0(@microsoft/api-extractor@7.43.0(@types/node@20.17.27))(@swc/core@1.11.16(@swc/helpers@0.5.15))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1)
+        version: 8.4.0(@microsoft/api-extractor@7.43.0(@types/node@20.17.27))(@swc/core@1.11.16(@swc/helpers@0.5.21))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1)
       typescript:
         specifier: ^5.8.3
         version: 5.8.3
       vitest:
         specifier: ^2.1.8
-        version: 2.1.9(@types/node@20.17.27)(happy-dom@20.0.2)(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1)
+        version: 2.1.9(@types/node@20.17.27)(happy-dom@20.8.9(bufferutil@4.0.9)(utf-8-validate@5.0.10))(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1)
 
   packages/derived-wallet-base:
     dependencies:
@@ -376,13 +376,13 @@ importers:
         version: 20.17.27
       tsup:
         specifier: ^8.4.0
-        version: 8.4.0(@microsoft/api-extractor@7.43.0(@types/node@20.17.27))(@swc/core@1.11.16(@swc/helpers@0.5.15))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1)
+        version: 8.4.0(@microsoft/api-extractor@7.43.0(@types/node@20.17.27))(@swc/core@1.11.16(@swc/helpers@0.5.21))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1)
       typescript:
         specifier: ^5.8.3
         version: 5.8.3
       vitest:
         specifier: ^2.1.8
-        version: 2.1.9(@types/node@20.17.27)(happy-dom@20.0.2)(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1)
+        version: 2.1.9(@types/node@20.17.27)(happy-dom@20.8.9(bufferutil@4.0.9)(utf-8-validate@5.0.10))(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1)
 
   packages/derived-wallet-ethereum:
     dependencies:
@@ -415,17 +415,17 @@ importers:
         specifier: ^20.10.4
         version: 20.17.27
       happy-dom:
-        specifier: ^20.0.2
-        version: 20.0.2
+        specifier: ^20.8.9
+        version: 20.8.9(bufferutil@4.0.9)(utf-8-validate@5.0.10)
       tsup:
         specifier: ^8.4.0
-        version: 8.4.0(@microsoft/api-extractor@7.43.0(@types/node@20.17.27))(@swc/core@1.11.16(@swc/helpers@0.5.15))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1)
+        version: 8.4.0(@microsoft/api-extractor@7.43.0(@types/node@20.17.27))(@swc/core@1.11.16(@swc/helpers@0.5.21))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1)
       typescript:
         specifier: ^5.8.3
         version: 5.8.3
       vitest:
         specifier: ^2.1.8
-        version: 2.1.9(@types/node@20.17.27)(happy-dom@20.0.2)(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1)
+        version: 2.1.9(@types/node@20.17.27)(happy-dom@20.8.9(bufferutil@4.0.9)(utf-8-validate@5.0.10))(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1)
 
   packages/derived-wallet-solana:
     dependencies:
@@ -464,17 +464,17 @@ importers:
         specifier: ^20.10.4
         version: 20.17.27
       happy-dom:
-        specifier: ^20.0.2
-        version: 20.0.2
+        specifier: ^20.8.9
+        version: 20.8.9(bufferutil@4.0.9)(utf-8-validate@5.0.10)
       tsup:
         specifier: ^8.4.0
-        version: 8.4.0(@microsoft/api-extractor@7.43.0(@types/node@20.17.27))(@swc/core@1.11.16(@swc/helpers@0.5.15))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1)
+        version: 8.4.0(@microsoft/api-extractor@7.43.0(@types/node@20.17.27))(@swc/core@1.11.16(@swc/helpers@0.5.21))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1)
       typescript:
         specifier: ^5.8.3
         version: 5.8.3
       vitest:
         specifier: ^2.1.8
-        version: 2.1.9(@types/node@20.17.27)(happy-dom@20.0.2)(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1)
+        version: 2.1.9(@types/node@20.17.27)(happy-dom@20.8.9(bufferutil@4.0.9)(utf-8-validate@5.0.10))(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1)
 
   packages/derived-wallet-sui:
     dependencies:
@@ -507,11 +507,11 @@ importers:
         specifier: ^20.10.4
         version: 20.19.17
       happy-dom:
-        specifier: ^20.0.2
-        version: 20.0.2
+        specifier: ^20.8.9
+        version: 20.8.9(bufferutil@4.0.9)(utf-8-validate@5.0.10)
       tsup:
         specifier: ^8.4.0
-        version: 8.4.0(@microsoft/api-extractor@7.43.0(@types/node@20.19.17))(@swc/core@1.11.16(@swc/helpers@0.5.15))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1)
+        version: 8.4.0(@microsoft/api-extractor@7.43.0(@types/node@20.19.17))(@swc/core@1.11.16(@swc/helpers@0.5.21))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1)
       tweetnacl:
         specifier: ^1.0.3
         version: 1.0.3
@@ -520,7 +520,7 @@ importers:
         version: 5.8.3
       vitest:
         specifier: ^2.1.8
-        version: 2.1.9(@types/node@20.19.17)(happy-dom@20.0.2)(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1)
+        version: 2.1.9(@types/node@20.19.17)(happy-dom@20.8.9(bufferutil@4.0.9)(utf-8-validate@5.0.10))(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1)
 
   packages/tsconfig: {}
 
@@ -553,7 +553,7 @@ importers:
         version: 18.3.5(@types/react@18.3.20)
       tsup:
         specifier: ^8.4.0
-        version: 8.4.0(@microsoft/api-extractor@7.43.0(@types/node@24.5.2))(@swc/core@1.11.16(@swc/helpers@0.5.15))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1)
+        version: 8.4.0(@microsoft/api-extractor@7.43.0(@types/node@24.5.2))(@swc/core@1.11.16(@swc/helpers@0.5.21))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1)
       typescript:
         specifier: ^5.8.3
         version: 5.8.3
@@ -578,22 +578,22 @@ importers:
         version: link:../tsconfig
       '@swc/core':
         specifier: ^1.11.16
-        version: 1.11.16(@swc/helpers@0.5.15)
+        version: 1.11.16(@swc/helpers@0.5.21)
       '@types/node':
         specifier: ^20.10.4
         version: 20.17.27
       happy-dom:
-        specifier: ^20.0.2
-        version: 20.0.2
+        specifier: ^20.8.9
+        version: 20.8.9(bufferutil@4.0.9)(utf-8-validate@5.0.10)
       tsup:
         specifier: ^8.4.0
-        version: 8.4.0(@microsoft/api-extractor@7.43.0(@types/node@20.17.27))(@swc/core@1.11.16(@swc/helpers@0.5.15))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1)
+        version: 8.4.0(@microsoft/api-extractor@7.43.0(@types/node@20.17.27))(@swc/core@1.11.16(@swc/helpers@0.5.21))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1)
       typescript:
         specifier: ^5.8.3
         version: 5.8.3
       vitest:
         specifier: ^2.1.8
-        version: 2.1.9(@types/node@20.17.27)(happy-dom@20.0.2)(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1)
+        version: 2.1.9(@types/node@20.17.27)(happy-dom@20.8.9(bufferutil@4.0.9)(utf-8-validate@5.0.10))(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1)
 
   packages/wallet-adapter-mui-design:
     dependencies:
@@ -633,7 +633,7 @@ importers:
         version: 18.3.5(@types/react@18.3.20)
       tsup:
         specifier: ^8.4.0
-        version: 8.4.0(@microsoft/api-extractor@7.43.0(@types/node@24.5.2))(@swc/core@1.11.16(@swc/helpers@0.5.15))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1)
+        version: 8.4.0(@microsoft/api-extractor@7.43.0(@types/node@24.5.2))(@swc/core@1.11.16(@swc/helpers@0.5.21))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1)
       typescript:
         specifier: ^5.8.3
         version: 5.8.3
@@ -669,17 +669,17 @@ importers:
         specifier: ^18.3.0
         version: 18.3.5(@types/react@18.3.20)
       happy-dom:
-        specifier: ^20.0.2
-        version: 20.0.2
+        specifier: ^20.8.9
+        version: 20.8.9(bufferutil@4.0.9)(utf-8-validate@5.0.10)
       tsup:
         specifier: ^8.4.0
-        version: 8.4.0(@microsoft/api-extractor@7.43.0(@types/node@24.5.2))(@swc/core@1.11.16(@swc/helpers@0.5.15))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1)
+        version: 8.4.0(@microsoft/api-extractor@7.43.0(@types/node@24.5.2))(@swc/core@1.11.16(@swc/helpers@0.5.21))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1)
       typescript:
         specifier: ^5.8.3
         version: 5.8.3
       vitest:
         specifier: ^2.1.8
-        version: 2.1.9(@types/node@24.5.2)(happy-dom@20.0.2)(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1)
+        version: 2.1.9(@types/node@24.5.2)(happy-dom@20.8.9(bufferutil@4.0.9)(utf-8-validate@5.0.10))(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1)
 
 packages:
 
@@ -1711,53 +1711,53 @@ packages:
   '@mysten/wallet-standard@0.13.29':
     resolution: {integrity: sha512-NR9I3HprticwT3HRPQ36VojV5Gjp+S/iJYdib3qLVrSiCOQjoilmYzA53pDu/rFDSrljskgV/0fAj9ynF9nVFg==}
 
-  '@next/env@15.5.16':
-    resolution: {integrity: sha512-9QMKolCl+JnJtaRAQSXy4RQrhgfe8W7/G1+Hl3QSB/HZY7zQMzTwPDdTRwwio8BS96ps1MHpHhbS8qxoNV3JIQ==}
+  '@next/env@16.2.6':
+    resolution: {integrity: sha512-gd8HoHN4ufj73WmR3JmVolrpJR47ILK6LouP5xElPglaVxir6e1a7VzvTvDWkOoPXT9rkkTzyCxBu4yeZfZwcw==}
 
-  '@next/swc-darwin-arm64@15.5.16':
-    resolution: {integrity: sha512-wzdER4JZj+31vNkhaZ1Ght3IsNI8DMwj7VqadfIOqJB5sh8FiOqNSopYADQn6mgEPomzDd/DHqBcfo2fmVMYtg==}
+  '@next/swc-darwin-arm64@16.2.6':
+    resolution: {integrity: sha512-ZJGkkcNfYgrrMkqOdZ7zoLa1TOy0qpcMfk/z4Mh/FKUz40gVO+HNQWqmLxf67Z5WB64DRp0dhEbyHfel+6sJUg==}
     engines: {node: '>= 10'}
     cpu: [arm64]
     os: [darwin]
 
-  '@next/swc-darwin-x64@15.5.16':
-    resolution: {integrity: sha512-PPTo+cvcanxkuDEuDyZGk28ntmu0WjfkxqlG7hw9Mhsiribs4x1C6h2Culn0cJKqsne1gFjjZRK3ax7WYlSxgg==}
+  '@next/swc-darwin-x64@16.2.6':
+    resolution: {integrity: sha512-v/YLBHIY132Ced3puBJ7YJKw1lqsCrgcNo2aRJlCEyQrrCeRJlvGlnmxhPxNQI3KE3N1DN5r9TPNPvka3nq5RQ==}
     engines: {node: '>= 10'}
     cpu: [x64]
     os: [darwin]
 
-  '@next/swc-linux-arm64-gnu@15.5.16':
-    resolution: {integrity: sha512-Jl0IL9P7S8uNl5oI1TqrQmfmLp7OqjWM58000pVnUVIsHrvPP6m9QDW/uNWYUbmd+8IYvc6MTeZKICstBMBpew==}
+  '@next/swc-linux-arm64-gnu@16.2.6':
+    resolution: {integrity: sha512-RPOvqlYBbcQjkz9VQQDZ2T2bARIjXZV1KFlt+V2Mr6SW/e4I9fcKsaA0hdyf2FHoTlsV2xnBd5Y912rP/1Ce6w==}
     engines: {node: '>= 10'}
     cpu: [arm64]
     os: [linux]
 
-  '@next/swc-linux-arm64-musl@15.5.16':
-    resolution: {integrity: sha512-Zf0BIqv/o5uOWfyRkzgGhyV2Tky7HLt0bG+w7XWdaU1JpyX0tltM3TrSfa/Y9c597SJG4CzN47+u2InhgZZ4vg==}
+  '@next/swc-linux-arm64-musl@16.2.6':
+    resolution: {integrity: sha512-URUTu1+dMkxJsPFgm+OeEvq9wf5sujw0EvgYy80TDGHTSLTnIHeqb0Eu8A3sC95IRgjejQL+kC4mw+4yPxiAXA==}
     engines: {node: '>= 10'}
     cpu: [arm64]
     os: [linux]
 
-  '@next/swc-linux-x64-gnu@15.5.16':
-    resolution: {integrity: sha512-HCDDU1TRLeUDV180QQTWrs5Oa4lIcI7XH9nF0UVUVmYLN/boZ6LqyFtm3814gc1fv+lOVyKaw5B6bVC9BpXTSQ==}
+  '@next/swc-linux-x64-gnu@16.2.6':
+    resolution: {integrity: sha512-DOj182mPV8G3UkrayLoREM5YEYI+Dk5wv7Ox9xl1fFibAELEsFD0lDPfHIeILlutMMfdyhlzYPELG3peuKaurw==}
     engines: {node: '>= 10'}
     cpu: [x64]
     os: [linux]
 
-  '@next/swc-linux-x64-musl@15.5.16':
-    resolution: {integrity: sha512-kvXUY1dn5wxKuMkXxQRUbPjEnKxW1PR9uKOm0zpIpj3574+cFfaePhYFmBVtrOuwt+w34OdDzNaJr5Iixf+HBQ==}
+  '@next/swc-linux-x64-musl@16.2.6':
+    resolution: {integrity: sha512-HKQ5SP/V/ub73UvF7n/zeJlxk2kLmtL7Wzrg4WfmkjmNos5onJ2tKu7yZOPdL18A6Svfn3max29ym+ry7NkK4g==}
     engines: {node: '>= 10'}
     cpu: [x64]
     os: [linux]
 
-  '@next/swc-win32-arm64-msvc@15.5.16':
-    resolution: {integrity: sha512-zpOQuF+eyENMXRjglp2hZCIrUjTdO37suEBnDn1mX4PXSuetXZDMLpjKOh4dYSw3SiDTnOoOUwBl5i5Elr6nnQ==}
+  '@next/swc-win32-arm64-msvc@16.2.6':
+    resolution: {integrity: sha512-LZXpTlPyS5v7HhSmnvsLGP3iIYgYOBnc8r8ArlT55sGHV89bR2HlDdBjWQ+PY6SJMmk8TuVGFuxalnP3k/0Dwg==}
     engines: {node: '>= 10'}
     cpu: [arm64]
     os: [win32]
 
-  '@next/swc-win32-x64-msvc@15.5.16':
-    resolution: {integrity: sha512-LnwKYpiSmIzXlTq76hMeeIzZoDcFwu848p6H+QBkGFJIbZphgzNUPdHruJcHM/bFnaFeco0l1Frie5I27VKglA==}
+  '@next/swc-win32-x64-msvc@16.2.6':
+    resolution: {integrity: sha512-F0+4i0h9J6C4eE3EAPWsoCk7UW/dbzOjyzxY0qnDUOYFu6FFmdZ6l97/XdV3/Nz3VYyO7UWjyEJUXkGqcoXfMA==}
     engines: {node: '>= 10'}
     cpu: [x64]
     os: [win32]
@@ -2844,6 +2844,9 @@ packages:
   '@swc/helpers@0.5.15':
     resolution: {integrity: sha512-JQ5TuMi45Owi4/BIMAJBoSQoOJu12oOk/gADqlcUL9JEdHB8vyjUSsxqeNXnmXHjYKMi2WcYtezGEEhqUI/E2g==}
 
+  '@swc/helpers@0.5.21':
+    resolution: {integrity: sha512-jI/VAmtdjB/RnI8GTnokyX7Ug8c+g+ffD6QRLa6XQewtnGyukKkKSk3wLTM3b5cjt1jNh9x0jfVlagdN2gDKQg==}
+
   '@swc/types@0.1.21':
     resolution: {integrity: sha512-2YEtj5HJVbKivud9N4bpPBAyZhj4S2Ipe5LkUG94alTpr7in/GU/EARgPAd3BwU+YOmFVJC2+kjqhGRi3r0ZpQ==}
 
@@ -2976,9 +2979,6 @@ packages:
   '@types/node@20.19.17':
     resolution: {integrity: sha512-gfehUI8N1z92kygssiuWvLiwcbOB3IRktR6hTDgJlXMYh5OvkPSRmgfoBUmfZt+vhwJtX7v1Yw4KvvAf7c5QKQ==}
 
-  '@types/node@20.19.32':
-    resolution: {integrity: sha512-Ez8QE4DMfhjjTsES9K2dwfV258qBui7qxUsoaixZDiTzbde4U12e1pXGNu/ECsUIOi5/zoCxAQxIhQnaUQ2VvA==}
-
   '@types/node@20.19.40':
     resolution: {integrity: sha512-xxx6M2IpSTnnKcR0cMvIiohkiCx20/oRPtWGbenFygKCGl3zqUzdNjQ/1V4solq1LU+dgv0nQzeGOuqkqZGg0Q==}
 
@@ -3027,6 +3027,9 @@ packages:
 
   '@types/ws@8.18.0':
     resolution: {integrity: sha512-8svvI3hMyvN0kKCJMvTJP/x6Y/EoQbepff882wL+Sn5QsXb3etnamgrJq4isrBxSJj5L2AuXcI0+bgkoAXGUJw==}
+
+  '@types/ws@8.18.1':
+    resolution: {integrity: sha512-ThVF6DCVhA8kUGy+aazFQ4kXQ7E1Ty7A3ypFOe0IcJV8O/M511G99AW24irKrW56Wt44yG9+ij8FaqoBGkuBXg==}
 
   '@vitest/expect@2.1.9':
     resolution: {integrity: sha512-UJCIkTBenHeKT1TTlKMJWy1laZewsRIzYighyYiJKZreqtdxSos/S1t+ktRMQWu2CKqaarrkeszJx1cgC5tGZw==}
@@ -3364,6 +3367,11 @@ packages:
   base64-js@1.5.1:
     resolution: {integrity: sha512-AKpaYlHn8t4SVbOHCy+b5+KKgvR4vrsD8vbvrbiQJps7fKDTkjkDry6ji0rUJjC0kzbNePLwzxq8iypo41qeWA==}
 
+  baseline-browser-mapping@2.10.28:
+    resolution: {integrity: sha512-Ic44hnOtFIgravCunj1ifSoQPSUrkNiJuH9Mf6jr2jjoA74icqV8wU0KuadXeOR8zuIJMOoTv0GuQjZ9ZYNMeA==}
+    engines: {node: '>=6.0.0'}
+    hasBin: true
+
   bech32@1.1.4:
     resolution: {integrity: sha512-s0IrSOzLlbvX7yp4WBfPITzpAU8sqQcpsmwXDiKwrG4r491vwCO/XpejasRNl0piBMe/DvP4Tz0mIS/X1DPJBQ==}
 
@@ -3507,6 +3515,9 @@ packages:
 
   caniuse-lite@1.0.30001707:
     resolution: {integrity: sha512-3qtRjw/HQSMlDWf+X79N206fepf4SOOU6SQLMaq/0KkZLmSjPxAkBOQQ+FxbHKfHmYLZFfdWsO3KA90ceHPSnw==}
+
+  caniuse-lite@1.0.30001792:
+    resolution: {integrity: sha512-hVLMUZFgR4JJ6ACt1uEESvQN1/dBVqPAKY0hgrV70eN3391K6juAfTjKZLKvOMsx8PxA7gsY1/tLMMTcfFLLpw==}
 
   chai@5.3.3:
     resolution: {integrity: sha512-4zNhdJD/iOjSH0A05ea+Ke6MU5mmpQcbQsSOkgdaUMJ9zTlDTD/GYlwohmIE2u0gaxHYiVHEn1Fw9mZ/ktJWgw==}
@@ -3760,6 +3771,10 @@ packages:
   enquirer@2.4.1:
     resolution: {integrity: sha512-rRqJg/6gd538VHvR3PSrdRBb/1Vy2YfzHqzvbhGIQpDRKIa4FgV/54b5Q1xYSxOOwKvjXweS26E0Q+nAMwp2pQ==}
     engines: {node: '>=8.6'}
+
+  entities@7.0.1:
+    resolution: {integrity: sha512-TWrgLOFUQTH994YUyl1yT4uyavY5nNB5muff+RtWaqNVCAK408b5ZnnbNAUEWLTCpum9w6arT70i1XdQ4UeOPA==}
+    engines: {node: '>=0.12'}
 
   error-ex@1.3.2:
     resolution: {integrity: sha512-7dFHNmqeFSEt2ZBsCriorKnn3Z2pj+fd9kmI6QoWw4//DL+icEBfc0U7qJCisqrTsKTjw4fNFy2pW9OqStD84g==}
@@ -4035,8 +4050,8 @@ packages:
     resolution: {integrity: sha512-DKKrynuQRne0PNpEbzuEdHlYOMksHSUI8Zc9Unei5gTsMNA2/vMpoMz/yKba50pejK56qj98qM0SjYxAKi13gQ==}
     engines: {node: ^12.22.0 || ^14.16.0 || ^16.0.0 || >=17.0.0}
 
-  happy-dom@20.0.2:
-    resolution: {integrity: sha512-pYOyu624+6HDbY+qkjILpQGnpvZOusItCk+rvF5/V+6NkcgTKnbOldpIy22tBnxoaLtlM9nXgoqAcW29/B7CIw==}
+  happy-dom@20.8.9:
+    resolution: {integrity: sha512-Tz23LR9T9jOGVZm2x1EPdXqwA37G/owYMxRwU0E4miurAtFsPMQ1d2Jc2okUaSjZqAFz2oEn3FLXC5a0a+siyA==}
     engines: {node: '>=20.0.0'}
 
   has-bigints@1.1.0:
@@ -4520,9 +4535,9 @@ packages:
       react: ^16.8 || ^17 || ^18
       react-dom: ^16.8 || ^17 || ^18
 
-  next@15.5.16:
-    resolution: {integrity: sha512-aZExBk/V6JCu3NCFc90twdj9L/M3y0+ukeQwUAZbOiqRhAX+h2oMEa0NZFhcpj6HYRYjVS3V2/3xvyOpNnmw7A==}
-    engines: {node: ^18.18.0 || ^19.8.0 || >= 20.0.0}
+  next@16.2.6:
+    resolution: {integrity: sha512-qOVgKJg1+At15NpeUP+eJgCHvTCgXsogweq87Ri/Ix7PkqQHg4sdaXmSFqKlgaIXE4kW0g25LE68W87UANlHtw==}
+    engines: {node: '>=20.9.0'}
     hasBin: true
     peerDependencies:
       '@opentelemetry/api': ^1.1.0
@@ -5892,6 +5907,18 @@ packages:
 
   ws@8.18.3:
     resolution: {integrity: sha512-PEIGCY5tSlUt50cqyMXfCzX+oOPqN0vuGqWzbcJ2xvnkzkq46oOpz7dQaTDBdfICb4N14+GARUDw2XV2N4tvzg==}
+    engines: {node: '>=10.0.0'}
+    peerDependencies:
+      bufferutil: ^4.0.1
+      utf-8-validate: '>=5.0.2'
+    peerDependenciesMeta:
+      bufferutil:
+        optional: true
+      utf-8-validate:
+        optional: true
+
+  ws@8.20.0:
+    resolution: {integrity: sha512-sAt8BhgNbzCtgGbt2OxmpuryO63ZoDk/sqaB/znQm94T4fCEsy/yV+7CdC1kJhOU9lboAEU7R3kquuycDoibVA==}
     engines: {node: '>=10.0.0'}
     peerDependencies:
       bufferutil: ^4.0.1
@@ -7382,30 +7409,30 @@ snapshots:
       - '@gql.tada/vue-support'
       - typescript
 
-  '@next/env@15.5.16': {}
+  '@next/env@16.2.6': {}
 
-  '@next/swc-darwin-arm64@15.5.16':
+  '@next/swc-darwin-arm64@16.2.6':
     optional: true
 
-  '@next/swc-darwin-x64@15.5.16':
+  '@next/swc-darwin-x64@16.2.6':
     optional: true
 
-  '@next/swc-linux-arm64-gnu@15.5.16':
+  '@next/swc-linux-arm64-gnu@16.2.6':
     optional: true
 
-  '@next/swc-linux-arm64-musl@15.5.16':
+  '@next/swc-linux-arm64-musl@16.2.6':
     optional: true
 
-  '@next/swc-linux-x64-gnu@15.5.16':
+  '@next/swc-linux-x64-gnu@16.2.6':
     optional: true
 
-  '@next/swc-linux-x64-musl@15.5.16':
+  '@next/swc-linux-x64-musl@16.2.6':
     optional: true
 
-  '@next/swc-win32-arm64-msvc@15.5.16':
+  '@next/swc-win32-arm64-msvc@16.2.6':
     optional: true
 
-  '@next/swc-win32-x64-msvc@15.5.16':
+  '@next/swc-win32-x64-msvc@16.2.6':
     optional: true
 
   '@noble/curves@1.2.0':
@@ -8492,7 +8519,7 @@ snapshots:
   '@swc/core-win32-x64-msvc@1.11.16':
     optional: true
 
-  '@swc/core@1.11.16(@swc/helpers@0.5.15)':
+  '@swc/core@1.11.16(@swc/helpers@0.5.21)':
     dependencies:
       '@swc/counter': 0.1.3
       '@swc/types': 0.1.21
@@ -8507,11 +8534,15 @@ snapshots:
       '@swc/core-win32-arm64-msvc': 1.11.16
       '@swc/core-win32-ia32-msvc': 1.11.16
       '@swc/core-win32-x64-msvc': 1.11.16
-      '@swc/helpers': 0.5.15
+      '@swc/helpers': 0.5.21
 
   '@swc/counter@0.1.3': {}
 
   '@swc/helpers@0.5.15':
+    dependencies:
+      tslib: 2.8.1
+
+  '@swc/helpers@0.5.21':
     dependencies:
       tslib: 2.8.1
 
@@ -8621,11 +8652,11 @@ snapshots:
 
   '@types/bn.js@4.11.6':
     dependencies:
-      '@types/node': 20.19.32
+      '@types/node': 20.19.40
 
   '@types/bn.js@5.1.6':
     dependencies:
-      '@types/node': 20.19.32
+      '@types/node': 20.19.40
 
   '@types/cacheable-request@6.0.3':
     dependencies:
@@ -8636,7 +8667,7 @@ snapshots:
 
   '@types/connect@3.4.38':
     dependencies:
-      '@types/node': 20.19.32
+      '@types/node': 20.19.40
 
   '@types/estree@1.0.7': {}
 
@@ -8660,10 +8691,6 @@ snapshots:
     dependencies:
       undici-types: 6.21.0
 
-  '@types/node@20.19.32':
-    dependencies:
-      undici-types: 6.21.0
-
   '@types/node@20.19.40':
     dependencies:
       undici-types: 6.21.0
@@ -8681,7 +8708,7 @@ snapshots:
 
   '@types/pbkdf2@3.1.2':
     dependencies:
-      '@types/node': 20.19.32
+      '@types/node': 20.19.40
 
   '@types/prop-types@15.7.14': {}
 
@@ -8704,7 +8731,7 @@ snapshots:
 
   '@types/secp256k1@4.0.6':
     dependencies:
-      '@types/node': 20.19.32
+      '@types/node': 20.19.40
 
   '@types/uuid@8.3.4': {}
 
@@ -8712,11 +8739,15 @@ snapshots:
 
   '@types/ws@7.4.7':
     dependencies:
-      '@types/node': 20.19.32
+      '@types/node': 20.19.40
 
   '@types/ws@8.18.0':
     dependencies:
-      '@types/node': 20.19.32
+      '@types/node': 20.19.40
+
+  '@types/ws@8.18.1':
+    dependencies:
+      '@types/node': 20.19.40
 
   '@vitest/expect@2.1.9':
     dependencies:
@@ -9389,6 +9420,8 @@ snapshots:
 
   base64-js@1.5.1: {}
 
+  baseline-browser-mapping@2.10.28: {}
+
   bech32@1.1.4: {}
 
   bech32@2.0.0: {}
@@ -9545,6 +9578,8 @@ snapshots:
   camelcase@6.3.0: {}
 
   caniuse-lite@1.0.30001707: {}
+
+  caniuse-lite@1.0.30001792: {}
 
   chai@5.3.3:
     dependencies:
@@ -9811,6 +9846,8 @@ snapshots:
     dependencies:
       ansi-colors: 4.1.3
       strip-ansi: 6.0.1
+
+  entities@7.0.1: {}
 
   error-ex@1.3.2:
     dependencies:
@@ -10167,11 +10204,17 @@ snapshots:
 
   graphql@16.12.0: {}
 
-  happy-dom@20.0.2:
+  happy-dom@20.8.9(bufferutil@4.0.9)(utf-8-validate@5.0.10):
     dependencies:
-      '@types/node': 20.19.32
+      '@types/node': 20.19.40
       '@types/whatwg-mimetype': 3.0.2
+      '@types/ws': 8.18.1
+      entities: 7.0.1
       whatwg-mimetype: 3.0.0
+      ws: 8.20.0(bufferutil@4.0.9)(utf-8-validate@5.0.10)
+    transitivePeerDependencies:
+      - bufferutil
+      - utf-8-validate
 
   has-bigints@1.1.0: {}
 
@@ -10612,24 +10655,25 @@ snapshots:
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
 
-  next@15.5.16(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
+  next@16.2.6(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
     dependencies:
-      '@next/env': 15.5.16
+      '@next/env': 16.2.6
       '@swc/helpers': 0.5.15
-      caniuse-lite: 1.0.30001707
+      baseline-browser-mapping: 2.10.28
+      caniuse-lite: 1.0.30001792
       postcss: 8.4.31
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
       styled-jsx: 5.1.6(react@18.3.1)
     optionalDependencies:
-      '@next/swc-darwin-arm64': 15.5.16
-      '@next/swc-darwin-x64': 15.5.16
-      '@next/swc-linux-arm64-gnu': 15.5.16
-      '@next/swc-linux-arm64-musl': 15.5.16
-      '@next/swc-linux-x64-gnu': 15.5.16
-      '@next/swc-linux-x64-musl': 15.5.16
-      '@next/swc-win32-arm64-msvc': 15.5.16
-      '@next/swc-win32-x64-msvc': 15.5.16
+      '@next/swc-darwin-arm64': 16.2.6
+      '@next/swc-darwin-x64': 16.2.6
+      '@next/swc-linux-arm64-gnu': 16.2.6
+      '@next/swc-linux-arm64-musl': 16.2.6
+      '@next/swc-linux-x64-gnu': 16.2.6
+      '@next/swc-linux-x64-musl': 16.2.6
+      '@next/swc-win32-arm64-msvc': 16.2.6
+      '@next/swc-win32-x64-msvc': 16.2.6
       sharp: 0.34.5
     transitivePeerDependencies:
       - '@babel/core'
@@ -10866,7 +10910,7 @@ snapshots:
       '@protobufjs/pool': 1.1.0
       '@protobufjs/utf8': 1.1.0
       '@types/long': 4.0.2
-      '@types/node': 20.19.32
+      '@types/node': 20.19.40
       long: 4.0.0
 
   protobufjs@7.4.0:
@@ -10881,7 +10925,7 @@ snapshots:
       '@protobufjs/path': 1.1.2
       '@protobufjs/pool': 1.1.0
       '@protobufjs/utf8': 1.1.0
-      '@types/node': 20.19.32
+      '@types/node': 20.19.40
       long: 5.3.1
 
   proxy-from-env@1.1.0: {}
@@ -11459,7 +11503,7 @@ snapshots:
 
   rpc-websockets@9.1.1:
     dependencies:
-      '@swc/helpers': 0.5.15
+      '@swc/helpers': 0.5.21
       '@types/uuid': 8.3.4
       '@types/ws': 8.18.0
       buffer: 6.0.3
@@ -11858,7 +11902,7 @@ snapshots:
 
   tslib@2.8.1: {}
 
-  tsup@8.4.0(@microsoft/api-extractor@7.43.0(@types/node@20.17.27))(@swc/core@1.11.16(@swc/helpers@0.5.15))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1):
+  tsup@8.4.0(@microsoft/api-extractor@7.43.0(@types/node@20.17.27))(@swc/core@1.11.16(@swc/helpers@0.5.21))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1):
     dependencies:
       bundle-require: 5.1.0(esbuild@0.25.1)
       cac: 6.7.14
@@ -11878,7 +11922,7 @@ snapshots:
       tree-kill: 1.2.2
     optionalDependencies:
       '@microsoft/api-extractor': 7.43.0(@types/node@20.17.27)
-      '@swc/core': 1.11.16(@swc/helpers@0.5.15)
+      '@swc/core': 1.11.16(@swc/helpers@0.5.21)
       postcss: 8.5.14
       typescript: 5.8.3
     transitivePeerDependencies:
@@ -11887,7 +11931,7 @@ snapshots:
       - tsx
       - yaml
 
-  tsup@8.4.0(@microsoft/api-extractor@7.43.0(@types/node@20.19.17))(@swc/core@1.11.16(@swc/helpers@0.5.15))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1):
+  tsup@8.4.0(@microsoft/api-extractor@7.43.0(@types/node@20.19.17))(@swc/core@1.11.16(@swc/helpers@0.5.21))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1):
     dependencies:
       bundle-require: 5.1.0(esbuild@0.25.1)
       cac: 6.7.14
@@ -11907,7 +11951,7 @@ snapshots:
       tree-kill: 1.2.2
     optionalDependencies:
       '@microsoft/api-extractor': 7.43.0(@types/node@20.19.17)
-      '@swc/core': 1.11.16(@swc/helpers@0.5.15)
+      '@swc/core': 1.11.16(@swc/helpers@0.5.21)
       postcss: 8.5.14
       typescript: 5.8.3
     transitivePeerDependencies:
@@ -11916,7 +11960,7 @@ snapshots:
       - tsx
       - yaml
 
-  tsup@8.4.0(@microsoft/api-extractor@7.43.0(@types/node@24.5.2))(@swc/core@1.11.16(@swc/helpers@0.5.15))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1):
+  tsup@8.4.0(@microsoft/api-extractor@7.43.0(@types/node@24.5.2))(@swc/core@1.11.16(@swc/helpers@0.5.21))(jiti@2.5.1)(postcss@8.5.14)(typescript@5.8.3)(yaml@2.8.1):
     dependencies:
       bundle-require: 5.1.0(esbuild@0.25.1)
       cac: 6.7.14
@@ -11936,7 +11980,7 @@ snapshots:
       tree-kill: 1.2.2
     optionalDependencies:
       '@microsoft/api-extractor': 7.43.0(@types/node@24.5.2)
-      '@swc/core': 1.11.16(@swc/helpers@0.5.15)
+      '@swc/core': 1.11.16(@swc/helpers@0.5.21)
       postcss: 8.5.14
       typescript: 5.8.3
     transitivePeerDependencies:
@@ -12153,7 +12197,7 @@ snapshots:
       terser: 5.44.0
       yaml: 2.8.1
 
-  vitest@2.1.9(@types/node@20.17.27)(happy-dom@20.0.2)(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1):
+  vitest@2.1.9(@types/node@20.17.27)(happy-dom@20.8.9(bufferutil@4.0.9)(utf-8-validate@5.0.10))(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1):
     dependencies:
       '@vitest/expect': 2.1.9
       '@vitest/mocker': 2.1.9(vite@6.3.6(@types/node@20.17.27)(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1))
@@ -12177,7 +12221,7 @@ snapshots:
       why-is-node-running: 2.3.0
     optionalDependencies:
       '@types/node': 20.17.27
-      happy-dom: 20.0.2
+      happy-dom: 20.8.9(bufferutil@4.0.9)(utf-8-validate@5.0.10)
     transitivePeerDependencies:
       - jiti
       - less
@@ -12192,7 +12236,7 @@ snapshots:
       - tsx
       - yaml
 
-  vitest@2.1.9(@types/node@20.19.17)(happy-dom@20.0.2)(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1):
+  vitest@2.1.9(@types/node@20.19.17)(happy-dom@20.8.9(bufferutil@4.0.9)(utf-8-validate@5.0.10))(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1):
     dependencies:
       '@vitest/expect': 2.1.9
       '@vitest/mocker': 2.1.9(vite@6.3.6(@types/node@20.19.17)(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1))
@@ -12216,7 +12260,7 @@ snapshots:
       why-is-node-running: 2.3.0
     optionalDependencies:
       '@types/node': 20.19.17
-      happy-dom: 20.0.2
+      happy-dom: 20.8.9(bufferutil@4.0.9)(utf-8-validate@5.0.10)
     transitivePeerDependencies:
       - jiti
       - less
@@ -12231,7 +12275,7 @@ snapshots:
       - tsx
       - yaml
 
-  vitest@2.1.9(@types/node@24.5.2)(happy-dom@20.0.2)(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1):
+  vitest@2.1.9(@types/node@24.5.2)(happy-dom@20.8.9(bufferutil@4.0.9)(utf-8-validate@5.0.10))(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1):
     dependencies:
       '@vitest/expect': 2.1.9
       '@vitest/mocker': 2.1.9(vite@6.3.6(@types/node@24.5.2)(jiti@2.5.1)(terser@5.44.0)(yaml@2.8.1))
@@ -12255,7 +12299,7 @@ snapshots:
       why-is-node-running: 2.3.0
     optionalDependencies:
       '@types/node': 24.5.2
-      happy-dom: 20.0.2
+      happy-dom: 20.8.9(bufferutil@4.0.9)(utf-8-validate@5.0.10)
     transitivePeerDependencies:
       - jiti
       - less
@@ -12353,6 +12397,11 @@ snapshots:
       utf-8-validate: 5.0.10
 
   ws@8.18.3(bufferutil@4.0.9)(utf-8-validate@5.0.10):
+    optionalDependencies:
+      bufferutil: 4.0.9
+      utf-8-validate: 5.0.10
+
+  ws@8.20.0(bufferutil@4.0.9)(utf-8-validate@5.0.10):
     optionalDependencies:
       bufferutil: 4.0.9
       utf-8-validate: 5.0.10
