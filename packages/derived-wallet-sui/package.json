@@ -46,11 +46,11 @@
   "devDependencies": {
     "@aptos-labs/wallet-adapter-tsconfig": "workspace:*",
     "@types/node": "^20.10.4",
-    "happy-dom": "^20.0.2",
+    "happy-dom": "^20.8.9",
     "tsup": "^8.4.0",
     "tweetnacl": "^1.0.3",
     "typescript": "^5.4.5",
-    "vitest": "^2.1.8"
+    "vitest": "^4.1.0"
   },
   "files": [
     "dist",
